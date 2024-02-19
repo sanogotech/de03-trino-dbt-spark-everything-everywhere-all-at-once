@@ -1,10 +1,16 @@
 # de03-apache-kyuuby
 
+## Docs
+
+- https://medium.com/@ongxuanhong/dataops-03-trino-dbt-spark-everything-everywhere-all-at-once-241932d27a6
+- https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+  
 ## Prepare infrastructure
 ```bash
 make build
 make up
 ```
+
 
 ## Prepare MySQL data
 
